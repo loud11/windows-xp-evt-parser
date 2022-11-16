@@ -1,6 +1,8 @@
 # windows-xp-evt-parser
 just simple parser deal with windows xp evt file
 
+dev lang: python 3.10
+
 if you want to run this program with your desire evt file
 just change file name inside script --> gonna make deal with argv soon.
 
